@@ -1,6 +1,6 @@
 # AndroidStudio_Tachometer
 ## Description:
- This is an app that works as a tachometer. It tracks the movement of the phone and if it exceeds the given limit, it records the location and timestamp of the this limitation break.
+ This is an app that works as a tachometer. It tracks the movement of the phone and if it exceeds the given limit, it records the location and timestamp of the limitation break.
  
 <img width="249" alt="exercise1Pic1" src="https://user-images.githubusercontent.com/34765932/136480481-900607d2-3cc4-452e-af43-663b947c0410.PNG">
 
